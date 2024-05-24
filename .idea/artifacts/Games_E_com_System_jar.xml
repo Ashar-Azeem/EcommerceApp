@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Games E-com System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Games_E_com_System_jar</output-path>
+    <root id="archive" name="Games E-com System.jar">
+      <element id="module-output" name="Games E-com System" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
